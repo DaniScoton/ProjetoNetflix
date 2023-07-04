@@ -77,3 +77,158 @@ li:last-child{
     padding:  12px 35px;
     font-weight: 600;
 }
+
+@media (max-width: 1350px){
+
+    h1{
+        font-size: 50px;
+    }
+
+    .perfil img{
+        width: 150px;
+        height: 150px;
+    }
+
+    .botao{
+        font-size: 15px;
+        padding:  8px 30px;
+    }
+}
+
+@media (max-width: 1000px){
+
+    h1{
+        font-size: 35px;
+    }
+
+    .perfil img{
+        width: 120px;
+        height: 120px;
+    }
+
+    .perfil span{
+        font-size: 20px;
+    }
+
+    .botao{
+        font-size: 15px;
+        padding:  8px 30px;
+    }
+}
+
+@media (max-width: 800px){
+
+    .perfil img{
+        width: 100px;
+        height: 100px;
+    }
+
+    .perfil span{
+        font-size: 15px;
+    }
+
+    .botao{
+        font-size: 15px;
+        padding:  6px 28px;
+    }
+}
+
+@media (max-width: 680px){
+
+    .perfil img{
+        width: 80px;
+        height: 80px;
+    }
+
+    .perfil span{
+        font-size: 12px;
+    }
+
+    .botao{
+        font-size: 12px;
+        padding:  6px 28px;
+    }
+}
+
+@media (max-width: 580px){
+
+    h1{
+        font-size: 30px;
+    }
+
+    .perfil img{
+        width: 60px;
+        height: 60px;
+    }
+
+    .perfil span{
+        font-size: 10px;
+    }
+
+    li{
+        margin-right: 22px;
+    }
+
+    .div-botao{
+        margin-top: 80px;
+    }
+
+    .botao{
+        font-size: 10px;
+        padding:  6px 28px;
+    }
+}
+
+@media (max-width: 425px){
+
+    h1{
+        font-size: 25px;
+    }
+
+    .perfil img{
+        width: 55px;
+        height: 55px;
+    }
+
+    .perfil span{
+        font-size: 10px;
+    }
+
+    li{
+        margin-right: 20px;
+    }
+
+    .div-botao{
+        margin-top: 70px;
+    }
+
+    .botao{
+        font-size: 8px;
+        padding:  4px 24px;
+    }
+}
+
+@media (max-width: 400px){
+
+    h1{
+        font-size: 20px;
+    }
+
+    .perfil img{
+        width: 45px;
+        height: 45px;
+    }
+
+    .perfil span{
+        font-size: 8px;
+    }
+
+    li{
+        margin-right: 15px;
+    }
+
+    .botao{
+        font-size: 8px;
+        padding:  4px 24px;
+    }
+}
